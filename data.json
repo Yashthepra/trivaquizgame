@@ -1,0 +1,68 @@
+{
+    "question": [
+      "Q1. What Indian city is the capital of two states?",
+      "Q2. Which city is the capital of India?",
+      "Q3. Smallest State of India?",
+      "Q4. Where is Taj Mahal Located?",
+      "Q5. which is known as the pink city?",
+      "Q6. which animal is considered as mosy 'holy' in india also as mother?",
+      "Q7. chandrayan 3 lander landed on which part of the moon?",
+      "Q8. which is the first country to make soft landing on moon's south pole?"
+      
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      2,
+      4,
+      2,
+      1,
+      3
+    ],
+    "options": [
+  
+      ["Chandigarh",
+        "Kolkata",
+        "Delhi",
+        "Bangalore"
+      ],
+      ["Jaipur",
+        "Delhi",
+        "Chennai",
+        "Mumbai"
+      ],
+      ["Rajasthan",
+        "Punjab",
+        "Goa",
+        "Bihar"
+      ],
+      ["Lucknow",
+        "Agra",
+        "Bhopal",
+        "Delhi"
+      ],
+      ["pune",
+       "kanpur",
+       "ranchi",
+       "jaipur"
+      ],
+      ["Tiger",
+       "Cow",
+       "pig",
+       "horse"
+      ],
+      [
+        "south pole",
+        "north pole",
+        "east side",
+        "not known"
+      ],
+      [
+        "russia",
+        "china",
+        "india",
+        "america"
+      ]
+    ]
+  }
